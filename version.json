@@ -1,0 +1,13 @@
+{
+  "latest": "1.2.0",
+  "versions": {
+    "1.2.0": {
+      "url": "https://dein-server.com/firmware/firmware-1.2.0.bin",
+      "sha256": "HIER_DER_SHA256_HASH_DER_FIRMWARE"
+    },
+    "1.1.0": {
+      "url": "https://dein-server.com/firmware/firmware-1.1.0.bin",
+      "sha256": "HIER_DER_SHA256_HASH_DER_FIRMWARE"
+    }
+  }
+}
