@@ -2,8 +2,7 @@
   "latest": "1.2.0",
   "versions": {
     "1.2.0": {
-      "url": "https://github.com/mgoebel89/ESP32OTAtest/blob/main/firmware/main.py",
-      "sha256": "HIER_DER_SHA256_HASH_DER_FIRMWARE"
+      "url": "https://github.com/mgoebel89/ESP32OTAtest/blob/main/firmware/main.py"
     },
     "1.1.0": {
       "url": "https://dein-server.com/firmware/firmware-1.1.0.bin",
